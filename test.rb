@@ -9,7 +9,7 @@ describe 'Random' do
 
   describe 'when comparing non-equal numbera' do
     it 'must respond negatively' do
-      1.must_equal 4
+      1.must_equal 5
     end
   end
 end
